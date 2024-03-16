@@ -1,0 +1,15 @@
+header{
+    background-color: #FFFFFF;
+    align-items: center;
+    justify-content: left;
+    padding-left: 20px;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+header::before{
+    background-color: #FFFFFF;
+    align-items: center;
+    justify-content: left;
+    padding-left: 20px;
+    content: url('../images/logo.png');
+}
